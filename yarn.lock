@@ -3149,10 +3149,10 @@ can-symlink@^1.0.0:
   dependencies:
     tmp "0.0.28"
 
-caniuse-db@^1.0.30000893:
-  version "1.0.30000910"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000910.tgz#58cca84780223291c28e92d97a9b1512260a9a8e"
-  integrity sha512-eysv5eAsXCBnfnhTZsKBtCZKdgeFaRqOlTN74kCfzdHdz0In3E5Aop7PyqPI757DsdjVwJOWrFHIrTPYzmll6g==
+caniuse-db@^1.0.30000919:
+  version "1.0.30000919"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000919.tgz#770570c2da35a7db65bb6babc3f57112e77161aa"
+  integrity sha512-Ksj05c5bP72oawWp3G0OLSO4IjWatZSULdONFZmGY6zfCrbsFAtZQ2tBR7rRMk02A68NPwvRecD8n4IUSM1XXQ==
 
 caniuse-lite@^1.0.30000792, caniuse-lite@^1.0.30000805, caniuse-lite@^1.0.30000898:
   version "1.0.30000910"
