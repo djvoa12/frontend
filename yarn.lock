@@ -6174,6 +6174,22 @@ ember-simple-charts@^0.17.0:
     ember-tether "1.0.0"
     merge "^1.2.0"
 
+ember-simple-charts@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/ember-simple-charts/-/ember-simple-charts-0.19.0.tgz#44634295f78e3130dd09c66cd4bc1776689800e8"
+  integrity sha512-8/AhLEvXQnrk74lPBZmGX2wvHsFKvmqG0IpoOSHumHAD8jgxris1T9RR9qJoYTdRUzcNmrorfgHWY5rur5lWIw==
+  dependencies:
+    d3 "^5.4.0"
+    ember-cli-babel "^7.1.2"
+    ember-cli-htmlbars "^3.0.0"
+    ember-cli-sass "^8.0.1"
+    ember-concurrency "^0.8.21"
+    ember-d3 "0.4.3"
+    ember-modal-dialog "^2.4.1"
+    ember-resize-aware "^1.0.0"
+    ember-tether "^1.0.0"
+    merge "^1.2.0"
+
 ember-singularity@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/ember-singularity/-/ember-singularity-1.2.1.tgz#16ae0b88add7ccb21b9c1638329f94c6a702c17e"
@@ -6228,7 +6244,7 @@ ember-test-selectors@^2.0.0:
     ember-cli-babel "^6.8.2"
     ember-cli-version-checker "^2.0.0"
 
-ember-tether@1.0.0:
+ember-tether@1.0.0, ember-tether@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-tether/-/ember-tether-1.0.0.tgz#6117ea7351927887cb74fa5d46097dd300280c2d"
   integrity sha1-YRfqc1GSeIfLdPpdRgl90wAoDC0=
